@@ -6,17 +6,17 @@
       "version": "0.1.0"
     },
     {
-      "name": "酷我",
+      "name": "kuwo",
       "url": "http://music.haitangw.net/cqapi/kw.js",
       "version": "0.1.0"
     },
     {
-      "name": "W音乐",
+      "name": "netease",
       "url": "https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/wy.js",
       "version": "0.2.3"
     },
     {
-      "name": "Audiomack",
+      "name": "audiomack",
       "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
       "version": "0.0.2"
     },
