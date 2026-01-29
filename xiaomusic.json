@@ -6,17 +6,12 @@
       "version": "0.1.0"
     },
     {
-      "name": "kuwo",
-      "url": "http://music.haitangw.net/cqapi/kw.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "netease",
+      "name": "W音乐",
       "url": "https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/wy.js",
       "version": "0.2.3"
     },
     {
-      "name": "audiomack",
+      "name": "Audiomack",
       "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
       "version": "0.0.2"
     },
@@ -24,6 +19,11 @@
       "name": "bilibili",
       "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
       "version": "0.2.3"
+    },
+    {
+      "name": "酷我",
+      "url": "http://music.haitangw.net/cqapi/kw.js",
+      "version": "0.1.0"
     }
   ]
 }
